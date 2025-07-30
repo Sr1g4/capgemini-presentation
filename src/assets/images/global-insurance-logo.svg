@@ -1,0 +1,30 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="insuranceGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background rectangle -->
+  <rect x="0" y="0" width="200" height="60" rx="8" fill="url(#insuranceGradient)" opacity="0.1"/>
+  
+  <!-- Global Insurance text -->
+  <text x="100" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#7c3aed">
+    GLOBAL INSURANCE
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="100" y="45" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">
+    Multi-Country Operations
+  </text>
+  
+  <!-- Globe symbol -->
+  <circle cx="25" cy="30" r="6" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+  <path d="M 19 30 Q 25 24 31 30 Q 25 36 19 30" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+  <path d="M 25 24 Q 25 30 25 36" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+  
+  <circle cx="175" cy="30" r="6" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+  <path d="M 169 30 Q 175 24 181 30 Q 175 36 169 30" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+  <path d="M 175 24 Q 175 30 175 36" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+</svg>

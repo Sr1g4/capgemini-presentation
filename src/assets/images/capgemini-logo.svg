@@ -1,0 +1,25 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="capgeminiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background rectangle -->
+  <rect x="0" y="0" width="200" height="60" rx="8" fill="url(#capgeminiGradient)" opacity="0.1"/>
+  
+  <!-- Capgemini text -->
+  <text x="100" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1e3a8a">
+    CAPGEMINI
+  </text>
+  
+  <!-- Tagline -->
+  <text x="100" y="50" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">
+    Invent the Future
+  </text>
+  
+  <!-- Decorative accent -->
+  <rect x="20" y="25" width="4" height="10" fill="#3b82f6" rx="2"/>
+  <rect x="176" y="25" width="4" height="10" fill="#3b82f6" rx="2"/>
+</svg>
