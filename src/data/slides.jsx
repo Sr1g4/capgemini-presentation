@@ -351,7 +351,7 @@ const slides = [
                 interactive={true}
                 showFullImage={true}
           />
-        </div>
+      </div>
         </div>
       </div>
       </div>
@@ -390,19 +390,19 @@ const slides = [
                    <div className="flex items-center space-x-2">
                      <span className="w-2 h-2 bg-orange-500 rounded-full"></span>
                      <span><strong>Amazon Connect:</strong> Cloud contact center with intelligent routing</span>
-                   </div>
+              </div>
                    <div className="flex items-center space-x-2">
                      <span className="w-2 h-2 bg-orange-500 rounded-full"></span>
                      <span><strong>Amazon Lex:</strong> Natural language understanding and processing</span>
-                   </div>
+        </div>
                    <div className="flex items-center space-x-2">
                      <span className="w-2 h-2 bg-orange-500 rounded-full"></span>
                      <span><strong>Amazon Bedrock:</strong> Foundation models for AI applications</span>
-                   </div>
+        </div>
                    <div className="flex items-center space-x-2">
                      <span className="w-2 h-2 bg-orange-500 rounded-full"></span>
                      <span><strong>OpenSearch:</strong> Search and analytics engine</span>
-                   </div>
+      </div>
                    <div className="flex items-center space-x-2">
                      <span className="w-2 h-2 bg-orange-500 rounded-full"></span>
                      <span><strong>Lambda:</strong> Serverless compute for event-driven applications</span>
@@ -421,7 +421,7 @@ const slides = [
                    <div className="flex items-center space-x-2">
                      <span className="w-2 h-2 bg-blue-500 rounded-full"></span>
                      <span><strong>1. Voice Authentication:</strong> Multi-factor verification and identity validation</span>
-                   </div>
+        </div>
                    <div className="flex items-center space-x-2">
                      <span className="w-2 h-2 bg-blue-500 rounded-full"></span>
                      <span><strong>2. Intent Recognition:</strong> Natural language processing and understanding</span>
@@ -525,9 +525,9 @@ const slides = [
                   diagramType="contact-center-flow"
                   interactive={true}
                   className="h-full"
-                />
-              </div>
-            </div>
+          />
+        </div>
+      </div>
           </motion.div>
 
           {/* Security & Compliance Technical Details */}
