@@ -53,71 +53,6 @@ This presentation demonstrates Capgemini's cutting-edge AI solutions for enterpr
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/[repository-name].git
-
-# Navigate to the project directory
-cd [repository-name]
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-### Building for Production
-```bash
-# Build the project
-npm run build
-
-# Preview the production build
-npm run preview
-```
-
-## 📁 Project Structure
-
-```
-├── src/
-│   ├── components/          # React components
-│   ├── data/              # Presentation content
-│   ├── assets/            # Images and static assets
-│   └── App.jsx           # Main application component
-├── public/               # Static files
-├── Diagrams/             # Source diagrams and assets
-└── README.md            # Project documentation
-```
-
-## 🎨 Customization
-
-### Adding New Slides
-1. Edit `src/data/slides.jsx`
-2. Add new slide content following the existing pattern
-3. Include interactive components as needed
-
-### Styling
-- Uses Tailwind CSS for styling
-- Custom components in `src/components/`
-- Responsive design with mobile optimization
-
-### Content Updates
-- Update slide content in `src/data/slides.jsx`
-- Modify images in `src/assets/images/`
-- Update branding elements as needed
-
-## 🔧 Development
-
-### Available Scripts
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
 
 ### Code Quality
 - ESLint configuration for code consistency
@@ -153,9 +88,6 @@ npm run preview
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🏢 About Capgemini
 
