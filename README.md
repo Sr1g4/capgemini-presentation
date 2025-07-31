@@ -4,7 +4,7 @@ A comprehensive, interactive presentation showcasing Capgemini's enterprise-grad
 
 ## 🚀 Live Demo
 
-**[View the live presentation here](https://[your-username].github.io/[repository-name])**
+**[View the live presentation here](https://Sr1g4.github.io/capgemini-presentation)**
 
 ## 📋 Overview
 
